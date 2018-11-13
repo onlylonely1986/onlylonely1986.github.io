@@ -5,9 +5,16 @@
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
+  background-color:#fef9ff;
 
   // Positioning context for the mobile navigation icon
   position: relative;
+}
+
+.mashead{
+  padding:1em;
+  background: #f1bafc url("../assets/hd.jpg") no-repeat center center;
+  background-size:cover;
 }
 
 .site-title {
@@ -106,8 +113,9 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  border-top: 10px solid $grey-color-light;
   padding: $spacing-unit 0;
+  background-color:#fef9ff;
 }
 
 .footer-heading {
@@ -119,6 +127,8 @@
 .social-media-list {
   list-style: none;
   margin-left: 0;
+  padding: 0;
+  
 }
 
 .footer-col-wrapper {

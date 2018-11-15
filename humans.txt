@@ -1,0 +1,17 @@
+/* TEAM */
+Your title: Lone Nilsson.                      
+Site: onlylonely1986@gmail.com.                     
+Github: onlylonely1986.                      
+Location: Nora, Sweden.
+
+                        
+/* THANKS */                       
+Name: Linné University, Sweden
+
+                        
+/* SITE */                      
+Last update: 2018/11/15                     
+Standards: HTML5, CSS3,..                      
+Software: Software used for the development
+
+            

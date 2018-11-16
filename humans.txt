@@ -11,7 +11,7 @@ Name: Linné University, Sweden
                         
 /* SITE */                      
 Last update: 2018/11/15                     
-Standards: HTML5, CSS3,..                      
+Standards: HTML5, CSS preproc, CSS3,..                      
 Software: Software used for the development
 
             

@@ -6,3 +6,5 @@ categories: jekyll update
 
 Första posten.
 
+![kod](/assets/code.jpg)
+

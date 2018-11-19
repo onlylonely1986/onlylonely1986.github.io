@@ -9,4 +9,4 @@ Humans.txt är en fil som ligger med en publicerad webbsida, där kan man hitta 
 
 Jag placerade min humans.txt direkt i src-katalogen och kan se den publicerad på:
 
-  [humans.txt](http://localhost:4000/humans.txt).
+  [humans.txt](http://onlylonely1986.github.io/humans.txt).

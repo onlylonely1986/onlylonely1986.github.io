@@ -16,9 +16,10 @@
 title: onlylonely
 email: onlylonely1986@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Studerande vid Linné Universitetet, Webbprogrammerare 120hp.
+  En Jekyll-webbsida om SSG-sidor.
+  Skapad som en del i Webbprogrammerarprogrammet (120hp), Linnéuniversitetet.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://onlylonely1986.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: onlylonely86
 github_username:  onlylonely1986
 
